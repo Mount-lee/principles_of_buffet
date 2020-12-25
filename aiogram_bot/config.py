@@ -1,0 +1,2 @@
+api_token = "1442084407:AAFGA8gGJ6oQl2xLvfX2_0WkhG60EnR5D5w"
+admin_id = 362763546
